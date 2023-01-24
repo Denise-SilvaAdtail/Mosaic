@@ -1,0 +1,7 @@
+/apple-downloads
+*.json
+bases/*ls
+*__pycache__
+/auth
+*DS_Store
+*.pyc
